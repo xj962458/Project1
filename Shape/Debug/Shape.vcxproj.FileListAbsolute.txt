@@ -1,0 +1,2 @@
+C:\Users\xjfyt\Desktop\C++\Shape\Debug\Shape.exe
+C:\Users\xjfyt\Desktop\C++\Shape\Debug\Shape.pdb

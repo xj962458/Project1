@@ -1,0 +1,2 @@
+C:\Users\xjfyt\Desktop\VS2019\Person2\Debug\Person2.exe
+C:\Users\xjfyt\Desktop\VS2019\Person2\Debug\Person2.pdb
