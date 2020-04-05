@@ -1,2 +1,4 @@
 C:\Users\xjfyt\Desktop\VS2019\Complex1\Debug\Complex1.exe
 C:\Users\xjfyt\Desktop\VS2019\Complex1\Debug\Complex1.pdb
+C:\Users\xjfyt\Desktop\VSproject\Complex1\Debug\Complex1.exe
+C:\Users\xjfyt\Desktop\VSproject\Complex1\Debug\Complex1.pdb
